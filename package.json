@@ -1,0 +1,19 @@
+{
+  "name": "theuy-bootstrap-datetimepicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap-datetimepicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlimpanont/bootstrap-datetimepicker.git"
+  },
+  "author": "Theuy Limpanont <info@theuy.nl> (http://theuy.nl/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlimpanont/bootstrap-datetimepicker/issues"
+  },
+  "homepage": "https://github.com/tlimpanont/bootstrap-datetimepicker#readme"
+}
